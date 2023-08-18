@@ -6,8 +6,7 @@
 В свободное время читаю книги и статьи, учу английский, занимаюсь спортом.
 
 ### Мой стек технологий:
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=blue"/>
 <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue"/>
 <img src="https://img.shields.io/badge/scipy-FFFFFF?style=for-the-badge&logo=scipy&logoColor=blue"/>
 <img src="https://img.shields.io/badge/seaborn-FFFFFF?style=for-the-badge&logo=&logoColor=blue"/>
