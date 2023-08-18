@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/badge/Tableau-4682B4?style=for-the-badge&logo=tableau&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/airflow-4682B4?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=D2691E"/>
-<img src="https://img.shields.io/badge/git hub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
