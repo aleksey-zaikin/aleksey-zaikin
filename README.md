@@ -6,4 +6,18 @@
 В свободное время читаю книги и статьи, учу английский, занимаюсь спортом.
 
 ### Мой стек технологий:
-https://camo.githubusercontent.com/a82f90224cfb75e682adae9b9f9c3257638d16ecea35001155cac9618d234585/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=blue"/>
+<img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue"/>
+<img src="https://img.shields.io/badge/scipy-FFFFFF?style=for-the-badge&logo=scipy&logoColor=blue"/>
+<img src="https://img.shields.io/badge/seaborn-FFFFFF?style=for-the-badge&logo=&logoColor=blue"/>
+<img src="https://img.shields.io/badge/sql-404040?style=for-the-badge&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/click house-404040?style=for-the-badge&logo=clickhouse&logoColor=FFFF00"/>
+
+<img src="https://img.shields.io/badge/Postgresql-4682B4?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-87CEEB?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/airflow-1E90FF?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-404040?style=for-the-badge&logo=git&logoColor=D2691E"/>
+<img src="https://img.shields.io/badge/git hub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/excel-228B22?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
