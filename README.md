@@ -29,3 +29,5 @@
 ["Аналитик данных"(Karpov.Courses)](https://github.com/aleksey-zaikin/certificates_private/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20karpov.courses.pdf) - курс по анализу данных.
 
 ["Поколение Python"(Stepik)](https://github.com/aleksey-zaikin/certificates_private/blob/main/stepik-certificate-58852-372d6d7.pdf) - курс по программированию на Python.
+
+["Основы статистики"(Stepik)](https://github.com/aleksey-zaikin/certificates_private/blob/main/stepik-certificate-76-8713776_stats1.pdf) - курс по статистике.
